@@ -148,5 +148,3 @@ MIT License.
 ### ⭐ If you find this useful, don’t forget to **star ⭐ the repo**!
 
 
-
-Reply: **"ADD BADGES & BANNER"** 💎
